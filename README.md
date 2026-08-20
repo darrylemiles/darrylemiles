@@ -165,7 +165,7 @@ A business finance and profit tracking platform I'm building to help businesses 
 * Establishing reusable UI and development patterns
 * Improving type safety, validation, and application reliability
 
-**Tech:** `React` `TypeScript` `Node.js` `Express.js` `MongoDB` `TanStack` `Shadcn/UI`
+**Tech:** `Next` `TypeScript` `Node.js` `Express.js` `MongoDB` `TanStack` `Shadcn/UI`
 
 ---
 
